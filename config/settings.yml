@@ -1,4 +1,14 @@
 plugins:
-  plugin_name_enabled:
+  category_pin_enabled:
     default: true
     client: true
+  category_pin_id:
+    type: integer
+    default: 0
+    client: true
+  category_pin_duration:
+    type: integer
+    default: 0
+    client: true
+
+  

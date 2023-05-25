@@ -1,1 +1,6 @@
 en:
+  site_settings:
+    category_pin_enabled: Enableing Category Pin Plugin
+    category_pin_id: Choose the category Id which it's topic would be pinned
+    category_pin_duration: Set the time in minutes for who long it would be be pinned, starting from the time it was created
+
