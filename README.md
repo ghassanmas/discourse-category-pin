@@ -23,4 +23,4 @@ The topic would be unpinned when either is true:
     - The new topic would be pinned for duration that set.
 
 - **The topic would be pinned globally**
-  - In the future a new settings might be added to set as a flag.
+  - In the future a new settings might be added to set as a flag to be pinned at category level only.
